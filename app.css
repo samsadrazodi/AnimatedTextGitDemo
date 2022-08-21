@@ -1,0 +1,20 @@
+h1 {
+    font-size: 6rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.letter {
+    transition: color 1000ms;
+}
+
+h2 {
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 6rem;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 0;
+}
